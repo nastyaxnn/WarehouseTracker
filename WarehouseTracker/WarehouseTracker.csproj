@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WarehouseTracker.Logic\WarehouseTracker.Logic.csproj" />
+    <ProjectReference Include="..\WarehouseTracker.Data\WarehouseTracker.Data.csproj" />
   </ItemGroup>
 
 </Project>

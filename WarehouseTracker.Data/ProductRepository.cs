@@ -1,6 +1,7 @@
+using WarehouseTracker.Logic;
 namespace WarehouseTracker.Data;
 
-public class ProductRepository
+public class ProductRepository: IProductRepository
 {
     private readonly List<Product> _items = new()
     {
