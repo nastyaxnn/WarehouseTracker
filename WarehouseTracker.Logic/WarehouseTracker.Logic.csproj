@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\WarehouseTracker.Data\WarehouseTracker.Data.csproj" />
-  </ItemGroup>
-
 </Project>

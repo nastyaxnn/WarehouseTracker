@@ -1,4 +1,4 @@
-namespace WarehouseTracker.Data;
+namespace WarehouseTracker.Logic;
 
 public class Product
 {
